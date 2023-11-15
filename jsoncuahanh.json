@@ -1,0 +1,290 @@
+{
+    "tinhThanh": [{
+            "tenTinh": "An Giang",
+            "thanhPho": [
+                { "tenThanhPho": "Long Xuyên", "maVung": "076" },
+                { "tenThanhPho": "Châu Đốc", "maVung": "076" }
+            ]
+        },
+        {
+            "tenTinh": "Bà Rịa - Vũng Tàu",
+            "thanhPho": [
+                { "tenThanhPho": "Vũng Tàu", "maVung": "025" },
+                { "tenThanhPho": "Bà Rịa", "maVung": "025" }
+            ]
+        },
+        {
+            "tenTinh": "Bạc Liêu",
+            "thanhPho": [
+                { "tenThanhPho": "Bạc Liêu", "maVung": "029" },
+                { "tenThanhPho": "Hồng Dân", "maVung": "029" }
+            ]
+        },
+        {
+            "tenTinh": "Bắc Giang",
+            "thanhPho": [
+                { "tenThanhPho": "Bắc Giang", "maVung": "020" },
+                { "tenThanhPho": "Lạng Sơn", "maVung": "020" }
+            ]
+        },
+        {
+            "tenTinh": "Bắc Kạn",
+            "thanhPho": [
+                { "tenThanhPho": "Bắc Kạn", "maVung": "028" },
+                { "tenThanhPho": "Chợ Đồn", "maVung": "028" }
+            ]
+        },
+        {
+            "tenTinh": "Bắc Ninh",
+            "thanhPho": [
+                { "tenThanhPho": "Bắc Ninh", "maVung": "022" },
+                { "tenThanhPho": "Từ Sơn", "maVung": "022" }
+            ]
+        },
+        {
+            "tenTinh": "Bến Tre",
+            "thanhPho": [
+                { "tenThanhPho": "Bến Tre", "maVung": "075" },
+                { "tenThanhPho": "Châu Thành", "maVung": "075" }
+            ]
+        },
+        {
+            "tenTinh": "Bình Định",
+            "thanhPho": [
+                { "tenThanhPho": "Quy Nhơn", "maVung": "056" },
+                { "tenThanhPho": "An Nhơn", "maVung": "056" }
+            ]
+        },
+        {
+            "tenTinh": "Bình Dương",
+            "thanhPho": [
+                { "tenThanhPho": "Thủ Dầu Một", "maVung": "027" },
+                { "tenThanhPho": "Dĩ An", "maVung": "027" }
+            ]
+        },
+        {
+            "tenTinh": "Bình Phước",
+            "thanhPho": [
+                { "tenThanhPho": "Đồng Xoài", "maVung": "027" },
+                { "tenThanhPho": "Bình Long", "maVung": "027" }
+            ]
+        },
+        {
+            "tenTinh": "Bình Thuận",
+            "thanhPho": [
+                { "tenThanhPho": "Phan Thiết", "maVung": "025" },
+                { "tenThanhPho": "La Gi", "maVung": "025" }
+            ]
+        },
+        {
+            "tenTinh": "Cà Mau",
+            "thanhPho": [
+                { "tenThanhPho": "Cà Mau", "maVung": "078" },
+                { "tenThanhPho": "Cái Nước", "maVung": "078" }
+            ]
+        },
+        {
+            "tenTinh": "Cao Bằng",
+            "thanhPho": [
+                { "tenThanhPho": "Cao Bằng", "maVung": "026" },
+                { "tenThanhPho": "Bảo Lâm", "maVung": "026" }
+            ]
+        },
+        {
+            "tenTinh": "Đà Nẵng",
+            "thanhPho": [
+                { "tenThanhPho": "Quận Hải Châu", "maVung": "023" },
+                { "tenThanhPho": "Quận Thanh Khê", "maVung": "023" }
+            ]
+        },
+        {
+            "tenTinh": "Đắk Lắk",
+            "thanhPho": [
+                { "tenThanhPho": "Buôn Ma Thuột", "maVung": "050" },
+                { "tenThanhPho": "Ea H'leo", "maVung": "050" }
+            ]
+        },
+        {
+            "tenTinh": "Đắk Nông",
+            "thanhPho": [
+                { "tenThanhPho": "Gia Nghĩa", "maVung": "050" },
+                { "tenThanhPho": "Đắk R'Lấp", "maVung": "050" }
+            ]
+        },
+        {
+            "tenTinh": "Điện Biên",
+            "thanhPho": [
+                { "tenThanhPho": "Điện Biên Phủ", "maVung": "021" },
+                { "tenThanhPho": "Mường Lay", "maVung": "021" }
+            ]
+        },
+        {
+            "tenTinh": "Đồng Nai",
+            "thanhPho": [
+                { "tenThanhPho": "Biên Hòa", "maVung": "025" },
+                { "tenThanhPho": "Long Khánh", "maVung": "025" }
+            ]
+        },
+        {
+            "tenTinh": "Đồng Tháp",
+            "thanhPho": [
+                { "tenThanhPho": "Cao Lãnh", "maVung": "027" },
+                { "tenThanhPho": "Sa Đéc", "maVung": "027" }
+            ]
+        },
+        {
+            "tenTinh": "Gia Lai",
+            "thanhPho": [
+                { "tenThanhPho": "Pleiku", "maVung": "059" },
+                { "tenThanhPho": "An Khê", "maVung": "059" }
+            ]
+        },
+        {
+            "tenTinh": "Hà Giang",
+            "thanhPho": [
+                { "tenThanhPho": "Hà Giang", "maVung": "021" },
+                { "tenThanhPho": "Đồng Văn", "maVung": "021" }
+            ]
+        },
+        {
+            "tenTinh": "Hà Nam",
+            "thanhPho": [
+                { "tenThanhPho": "Phủ Lý", "maVung": "035" },
+                { "tenThanhPho": "Duy Tiên", "maVung": "035" }
+            ]
+        },
+        {
+            "tenTinh": "Hà Nội",
+            "thanhPho": [
+                { "tenThanhPho": "Quận Hoàn Kiếm", "maVung": "024" },
+                { "tenThanhPho": "Quận Ba Đình", "maVung": "024" }
+            ]
+        },
+        {
+            "tenTinh": "Hà Tĩnh",
+            "thanhPho": [
+                { "tenThanhPho": "Hà Tĩnh", "maVung": "023" },
+                { "tenThanhPho": "Hồng Lĩnh", "maVung": "023" }
+            ]
+        },
+        {
+            "tenTinh": "Hải Dương",
+            "thanhPho": [
+                { "tenThanhPho": "Hải Dương", "maVung": "022" },
+                { "tenThanhPho": "Chí Linh", "maVung": "022" }
+            ]
+        },
+        {
+            "tenTinh": "Hải Phòng",
+            "thanhPho": [
+                { "tenThanhPho": "Quận Hồng Bàng", "maVung": "022" },
+                { "tenThanhPho": "Quận Ngô Quyền", "maVung": "022" }
+            ]
+        },
+        {
+            "tenTinh": "Hậu Giang",
+            "thanhPho": [
+                { "tenThanhPho": "Vị Thanh", "maVung": "029" },
+                { "tenThanhPho": "Ngã Bảy", "maVung": "029" }
+            ]
+        },
+        {
+            "tenTinh": "Hòa Bình",
+            "thanhPho": [
+                { "tenThanhPho": "Hòa Bình", "maVung": "021" },
+                { "tenThanhPho": "Mai Châu", "maVung": "021" }
+            ]
+        },
+        {
+            "tenTinh": "Hưng Yên",
+            "thanhPho": [
+                { "tenThanhPho": "Hưng Yên", "maVung": "032" },
+                { "tenThanhPho": "Văn Lâm", "maVung": "032" }
+            ]
+        },
+        {
+            "tenTinh": "Khánh Hòa",
+            "thanhPho": [
+                { "tenThanhPho": "Nha Trang", "maVung": "058" },
+                { "tenThanhPho": "Cam Ranh", "maVung": "058" }
+            ]
+        },
+        {
+            "tenTinh": "Kiên Giang",
+            "thanhPho": [
+                { "tenThanhPho": "Rạch Giá", "maVung": "077" },
+                { "tenThanhPho": "Hà Tiên", "maVung": "077" }
+            ]
+        },
+        {
+            "tenTinh": "Kon Tum",
+            "thanhPho": [
+                { "tenThanhPho": "Kon Tum", "maVung": "060" },
+                { "tenThanhPho": "Pleiku", "maVung": "060" }
+            ]
+        },
+        {
+            "tenTinh": "Lai Châu",
+            "thanhPho": [
+                { "tenThanhPho": "Lai Châu", "maVung": "023" },
+                { "tenThanhPho": "Phong Thổ", "maVung": "023" }
+            ]
+        },
+        {
+            "tenTinh": "Lâm Đồng",
+            "thanhPho": [
+                { "tenThanhPho": "Đà Lạt", "maVung": "063" },
+                { "tenThanhPho": "Bảo Lộc", "maVung": "063" }
+            ]
+        },
+        {
+            "tenTinh": "Lạng Sơn",
+            "thanhPho": [
+                { "tenThanhPho": "Lạng Sơn", "maVung": "025" },
+                { "tenThanhPho": "Cao Lộc", "maVung": "025" }
+            ]
+        },
+        {
+            "tenTinh": "Lào Cai",
+            "thanhPho": [
+                { "tenThanhPho": "Lào Cai", "maVung": "020" },
+                { "tenThanhPho": "Sa Pa", "maVung": "020" }
+            ]
+        },
+        {
+            "tenTinh": "Long An",
+            "thanhPho": [
+                { "tenThanhPho": "Tân An", "maVung": "027" },
+                { "tenThanhPho": "Bến Lức", "maVung": "027" }
+            ]
+        },
+        {
+            "tenTinh": "Nam Định",
+            "thanhPho": [
+                { "tenThanhPho": "Nam Định", "maVung": "035" },
+                { "tenThanhPho": "Ninh Bình", "maVung": "035" }
+            ]
+        },
+        {
+            "tenTinh": "Nghệ An",
+            "thanhPho": [
+                { "tenThanhPho": "Vinh", "maVung": "038" },
+                { "tenThanhPho": "Cửa Lò", "maVung": "038" }
+            ]
+        },
+        {
+            "tenTinh": "Ninh Bình",
+            "thanhPho": [
+                { "tenThanhPho": "Ninh Bình", "maVung": "030" },
+                { "tenThanhPho": "Tam Điệp", "maVung": "030" }
+            ]
+        },
+        {
+            "tenTinh": "Ninh Thuận",
+            "thanhPho": [
+                { "tenThanhPho": "Phan Rang - Tháp Chàm", "maVung": "068" },
+                { "tenThanhPho": "Ninh Hải", "maVung": "068" }
+            ]
+        }
+    ]
+}
